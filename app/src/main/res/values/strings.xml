@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPracticeLogger</string>
+    <string name="main_activity">Main Activity Header</string>
+</resources>
